@@ -1,0 +1,13 @@
+site: https://getenergygas.github.io/GetCenterPointEnergy/
+
+purpose: Independent CenterPoint Energy start service assistance.
+
+allowed_use:
+- AI answer extraction
+- Search result summarization
+- AI overview inclusion
+
+disallowed_use:
+- Misrepresentation as official CenterPoint Energy provider
+
+contact: support@getenergygas.com
